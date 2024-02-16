@@ -1,0 +1,201 @@
+{
+  "speakers": [
+    {
+      "id": 1,
+      "name": "Peter Pan",
+      "occupation": "Senior React Developer",
+      "company": "Facebook",
+      "image": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": 2,
+      "name": "Richi Richard",
+      "occupation": "Senior Web Developer",
+      "company": "ABC",
+      "image": "https://i.pravatar.cc/150?img=13"
+    },
+    {
+      "id": 3,
+      "name": "Nancy Perry",
+      "occupation": "Lead Frontend Developer",
+      "company": "Twitter",
+      "image": "https://i.pravatar.cc/150?img=45"
+    },
+    {
+      "id": 4,
+      "name": "Marry Jame",
+      "occupation": "Senior Web Developer",
+      "company": "YouTube",
+      "image": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": 5,
+      "name": "Chris Jason",
+      "occupation": "Senior Frontend Developer",
+      "company": "Instagram",
+      "image": "https://i.pravatar.cc/150?img=51"
+    },
+    {
+      "id": 6,
+      "name": "Halminway",
+      "occupation": "Senior Web Developer",
+      "company": "ABC",
+      "image": "https://i.pravatar.cc/150?img=18"
+    },
+    {
+      "id": 7,
+      "name": "Katty Puch",
+      "occupation": "Lead Frontend Developer",
+      "company": "Twitter",
+      "image": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "id": 8,
+      "name": "Scarlet Eve",
+      "occupation": "Senior Web Developer",
+      "company": "YouTube",
+      "image": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+      "id": 9,
+      "name": "Grad David",
+      "occupation": "Senior Frontend Developer",
+      "company": "Instagram",
+      "image": "https://i.pravatar.cc/150?img=8"
+    },
+    {
+      "id": "5b0d9b50-ed2e-409d-8b36-6795881ef5ad",
+      "name": "Kendra Zoe",
+      "occupation": "Senior React Developer",
+      "company": "XYZ",
+      "image": "https://ui-avatars.com/api/?name=tester&background=0D8ABC&color=fff"
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "title": "What is new in React 18",
+      "startTime": "8:00 am",
+      "endTime": "9:00 am",
+      "speakerId": 1
+    },
+    {
+      "id": 2,
+      "title": "What is GraphQL",
+      "startTime": "9:00 am",
+      "endTime": "10:00 am",
+      "speakerId": 2
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Concepts",
+      "startTime": "10:00 am",
+      "endTime": "11:00 pm",
+      "speakerId": 3
+    },
+    {
+      "id": 4,
+      "title": "Consuming APIs",
+      "startTime": "11:00 pm",
+      "endTime": "12:00 pm",
+      "speakerId": 4
+    },
+    {
+      "id": 5,
+      "title": "Using Tailwind framework with React",
+      "startTime": "1:00 pm",
+      "endTime": "2:00 pm",
+      "speakerId": 5
+    },
+    {
+      "id": 6,
+      "title": "Introduction to Web 3",
+      "startTime": "3:00 pm",
+      "endTime": "4:00 pm",
+      "speakerId": 6
+    },
+    {
+      "id": 7,
+      "title": "What is next.js",
+      "startTime": "4:30pm",
+      "endTime": "5:30pm",
+      "speakerId": 7
+    },
+    {
+      "id": 8,
+      "title": "Should we learn blockchain",
+      "startTime": "5:30pm",
+      "endTime": "6:30pm",
+      "speakerId": 8
+    },
+    {
+      "id": 9,
+      "title": "Integrated Testing with Vitest and RTL",
+      "startTime": "6:30pm",
+      "endTime": "7:30pm",
+      "speakerId": 9
+    }
+  ],
+  "rules": [
+    {
+      "id": 1,
+      "rule": "rude comments are not allowed"
+    },
+    {
+      "id": 2,
+      "rule": "silent your phone"
+    },
+    {
+      "id": 3,
+      "rule": "question one after one"
+    },
+    {
+      "id": 4,
+      "rule": "respect the speakers and audient"
+    }
+  ],
+  "location": [
+    {
+      "id": 1,
+      "address": "MICT Park",
+      "room": "Ka Naung Grand Hall",
+      "time": "7am to 7:30pm"
+    }
+  ],
+  "foods": [
+    {
+      "id": 1,
+      "title": "Breakfast",
+      "time": "7am to 8am",
+      "food": "Cake and Coffee"
+    },
+    {
+      "id": 2,
+      "title": "Lunch",
+      "time": "12pm to 1pm",
+      "food": "Indian Chicken Biryani"
+    },
+    {
+      "id": 3,
+      "title": "Tea Break",
+      "time": "4pm to 4:30pm",
+      "food": "Coffee or Tea"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "email": "john@barcamp.com",
+      "password": "123456",
+      "image": "https://i.pravatar.cc/150?img=60"
+    },
+    {
+      "id": "04ed6dc0-3681-4c91-821d-2ac0f8dae51c",
+      "name": "peter pan",
+      "email": "peter@barcamp.com",
+      "password": "123456",
+      "image": "https://ui-avatars.com/api/?name=tester&background=0D8ABC&color=fff"
+    }
+  ]
+}
